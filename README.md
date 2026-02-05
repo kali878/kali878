@@ -104,7 +104,7 @@ passionate about
   <a href="mailto:ajadpatel2900@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anup-patel-29745a364">
+  <a href="https://www.linkedin.com/in/anup-patel-29745a364/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/📞_Phone-=917974896613-0A66C2?style=for-the-badge" />

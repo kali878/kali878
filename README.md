@@ -1,117 +1,24 @@
-# 👋 Hey there! I'm **Anup Patel**  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=005266&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%F0%9F%94%90;Network+Security+Trainee+%F0%9F%9B%A1%EF%B8%8F;Python+Security+Automation+%F0%9F%90%8D;Learning+%7C+Breaking+%7C+Securing" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.azxd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anup-patel-29745a364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajadpatel2900@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kali878&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kali878&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kali878&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🧑‍💻 🚀 About Me  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kali878&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔐 **Cybersecurity Student | Network Security Trainee | Python Enthusiast**  
-🌍 India | 🔐 Securing Networks | 🐍 Automating Security  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-passionate about  
-**network defense, ethical hacking, traffic analysis, and threat detection**.
-
-💡 I enjoy:
-- Finding vulnerabilities before attackers do  
-- Automating security tasks with Python  
-- Working hands-on with real security tools  
-
-🧠 *Think like an attacker. Act like a defender.*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kali878&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kali878&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛡️ 🧰 Tech Stack  
-
-### 🌐 Networking & Security  
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network%20Security-2E3440?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-FF6F00?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-0A0A0A?style=for-the-badge)
-
-### 🖥️ Operating Systems  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-### 🛠️ Security Tools  
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge)
-
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge)
-
----
-
-## 💡 🚧 Projects  
-
-🎣 **Phishing Detection System**  
-🔹 Identified malicious emails & URLs  
-🔹 Reduced false positives using rule-based analysis  
-🛠️ *Python | Linux | Wireshark*
-
-🖼️ **Steganography Detection Tool**  
-🔹 Detected hidden data via metadata & pixel analysis  
-🛠️ *Python | Kali Linux | OpenStego*
-
-💰 **Money Laundering Pattern Detection**  
-🔹 Graph-based transaction analysis  
-🔹 Detected circular routing & layering  
-🛠️ ## 🛠 Technology Stack
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Vite, Tailwind CSS |
-| **Backend** | Python, FastAPI/Flask, REST API |
-| **AI/ML** | Google Gemini API (Summarization), Scikit-Learn (Scoring) |
-| **Graph Database** | Neo4j, Cypher |
-| **Data Processing** | Pandas, NumPy |
-| **Storage** | Firebase Firestore, CSV |
-| **Reporting** | ReportLab (PDF Generation) |
----
-
-## 📊 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏆 🧾 Certifications & Achievements  
-
-🏅 Google Cyber Security  
-🏅 Cisco Networking Academy – Cybersecurity  
-🏅 NPTEL – Cyber Security & Privacy  
-🥇 School Topper (90%+ X & XII)  
-🎖️ NCC ‘A’ Certificate Holder  
-
----
-
-## 🌐 🤝 Connect With Me  
-
-<p align="center">
-  <a href="mailto:ajadpatel2900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/anup-patel-29745a364/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/📞_Phone-=917974896613-0A66C2?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-⭐ <b>If you like my work, give a star & follow!</b> 🔐🚀
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

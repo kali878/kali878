@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Anup Patel**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFB3&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%F0%9F%94%90;Network+Security+Trainee+%F0%9F%9B%A1%EF%B8%8F;Python+Security+Automation+%F0%9F%90%8D;Learning+%7C+Breaking+%7C+Securing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=005266&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%F0%9F%94%90;Network+Security+Trainee+%F0%9F%9B%A1%EF%B8%8F;Python+Security+Automation+%F0%9F%90%8D;Learning+%7C+Breaking+%7C+Securing" />
 </p>
 
 ---
